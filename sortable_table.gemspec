@@ -14,8 +14,7 @@ Gem::Specification.new do |s|
                       lib/sortable_table/app/controllers/application_controller.rb
                       lib/sortable_table/app/helpers
                       lib/sortable_table/app/helpers/application_helper.rb
-                      lib/sortable_table.rb
-                      rails/init.rb)
+                      lib/sortable_table.rb)
   s.require_path = 'lib'
   s.test_files   = Dir['test/**/*']
 
